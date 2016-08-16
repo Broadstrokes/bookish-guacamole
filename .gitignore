@@ -33,6 +33,8 @@ build/Release
 test/config.js
 
 
+firebaseSAC.json
+
 
 logs/*
 !.gitkeep
